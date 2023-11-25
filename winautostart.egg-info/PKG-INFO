@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: winautostart
-Version: 0.1
+Version: 0.2
 Summary: Manage your Windows autostarts
 Author: infernox.dev
 License: MIT
@@ -14,6 +14,4 @@ Classifier: Programming Language :: Python :: 3.9
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
-## вњЁ WinAutostart
-### WinAutostart is powerful Python library for managing autostarts.
-## рџ§© Docs and more README will come soon
+README at https://github.com/infernox-dev/winautostart
